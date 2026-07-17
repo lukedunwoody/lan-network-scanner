@@ -1,6 +1,6 @@
 import time
 
-FILLED_ICON = "▋" # █
+FILLED_ICON = "█" # ▋ for fonts with long regular block
 EMPTY_ICON = "·"
 BAR_LENGTH = 50
 
